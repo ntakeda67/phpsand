@@ -1,0 +1,36 @@
+#+TITLE: Perfect PHP
+#+AUTHOR: ntakeda67
+#+LANGUAGE: ja
+#+OPTIONS: creator:nil LaTeX:t
+#+STYLE: <link rel="stylesheet" type="text/css" href="~/.emacs.d/template/org.css">
+
+* 疑問
+** 型/変数
+*** 文字列 二項演算子の "."
+連結?
+
+:BEGIN_SRC:
+echo "hoge" . PHP_EOL 
+echo "hoge" , PHP_EOL 
+:END:
+
+*** ダブル"とシングル'の違い
+シングルは展開なし
+
+** php.iniがらみ
+- SAPI
+- PHPRC
+
+
+* やること
+** 通読
+** 作りたい物を決める
+** 試す
+
+* 環境メモ
+** php
+:BEGIN_SRC:
+PHP 7.1.22 (cli) (built: Sep 11 2018 14:08:26) ( NTS )
+Copyright (c) 1997-2018 The PHP Group
+Zend Engine v3.1.0, Copyright (c) 1998-2018 Zend Technologies
+:END:
