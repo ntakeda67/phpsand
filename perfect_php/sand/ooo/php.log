@@ -1,0 +1,61 @@
+[13-Oct-2018 10:05:08 UTC] PHP Fatal error:  Uncaught Error: Class 'MagicSand' not found in /home/nt67/Documents/php/perfect_php/sand/ooo/main.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nt67/Documents/php/perfect_php/sand/ooo/main.php on line 5
+[13-Oct-2018 10:05:31 UTC] PHP Fatal error:  Uncaught Error: Class 'MagicSand' not found in /home/nt67/Documents/php/perfect_php/sand/ooo/main.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/nt67/Documents/php/perfect_php/sand/ooo/main.php on line 5
+[13-Oct-2018 10:10:38 UTC] PHP Notice:  Use of undefined constant MagicSand - assumed 'MagicSand' in /home/nt67/Documents/php/perfect_php/sand/ooo/main.php on line 3
+[13-Oct-2018 10:10:38 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/nt67/Documents/php/perfect_php/sand/ooo/main.php on line 3
+[13-Oct-2018 10:10:38 UTC] PHP Warning:  require_once(MagicSandphp): failed to open stream: No such file or directory in /home/nt67/Documents/php/perfect_php/sand/ooo/main.php on line 3
+[13-Oct-2018 10:10:38 UTC] PHP Fatal error:  require_once(): Failed opening required 'MagicSandphp' (include_path='.:/usr/share/pear:/usr/share/php') in /home/nt67/Documents/php/perfect_php/sand/ooo/main.php on line 3
+[13-Oct-2018 10:10:51 UTC] PHP Fatal error:  Uncaught Error: Undefined constant 'org\nt67\ooo\sand' in /home/nt67/Documents/php/perfect_php/sand/ooo/MagicSand.php:2
+Stack trace:
+#0 /home/nt67/Documents/php/perfect_php/sand/ooo/main.php(3): require_once()
+#1 {main}
+  thrown in /home/nt67/Documents/php/perfect_php/sand/ooo/MagicSand.php on line 2
+[13-Oct-2018 10:43:04 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/nt67/Documents/php/perfect_php/sand/ooo/main.php on line 11
+[13-Oct-2018 10:43:29 UTC] PHP Parse error:  syntax error, unexpected 'generateNovice' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/nt67/Documents/php/perfect_php/sand/ooo/DummyPartyGenerator.php on line 5
+[13-Oct-2018 10:47:03 UTC] PHP Parse error:  syntax error, unexpected 'rate' (T_STRING), expecting variable (T_VARIABLE) in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 14
+[13-Oct-2018 10:47:42 UTC] PHP Notice:  Undefined variable: effect in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 16
+[13-Oct-2018 10:47:42 UTC] PHP Notice:  Undefined variable: power in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 16
+[13-Oct-2018 10:47:42 UTC] PHP Notice:  Undefined variable: effect in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 16
+[13-Oct-2018 10:47:42 UTC] PHP Notice:  Undefined variable: power in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 16
+[13-Oct-2018 10:49:18 UTC] PHP Notice:  Undefined variable: effect in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 16
+[13-Oct-2018 10:49:18 UTC] PHP Notice:  Undefined variable: power in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 16
+[13-Oct-2018 10:49:18 UTC] PHP Notice:  Undefined variable: effect in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 16
+[13-Oct-2018 10:49:18 UTC] PHP Notice:  Undefined variable: power in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 16
+[13-Oct-2018 10:49:42 UTC] PHP Notice:  Undefined variable: power in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 16
+[13-Oct-2018 10:49:42 UTC] PHP Notice:  Undefined variable: effect in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 17
+[13-Oct-2018 10:49:42 UTC] PHP Notice:  Undefined variable: power in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 17
+[13-Oct-2018 10:49:42 UTC] PHP Notice:  Undefined variable: power in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 16
+[13-Oct-2018 10:49:42 UTC] PHP Notice:  Undefined variable: effect in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 17
+[13-Oct-2018 10:49:42 UTC] PHP Notice:  Undefined variable: power in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 17
+[13-Oct-2018 10:49:53 UTC] PHP Notice:  Undefined variable: power in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 16
+[13-Oct-2018 10:49:53 UTC] PHP Notice:  Undefined variable: effect in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 17
+[13-Oct-2018 10:49:53 UTC] PHP Notice:  Undefined variable: power in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 17
+[13-Oct-2018 10:49:53 UTC] PHP Notice:  Undefined variable: power in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 16
+[13-Oct-2018 10:49:53 UTC] PHP Notice:  Undefined variable: effect in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 17
+[13-Oct-2018 10:49:53 UTC] PHP Notice:  Undefined variable: power in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 17
+[13-Oct-2018 10:50:14 UTC] PHP Notice:  Undefined variable: power in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 16
+[13-Oct-2018 10:50:14 UTC] PHP Notice:  Undefined variable: effect in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 17
+[13-Oct-2018 10:50:14 UTC] PHP Notice:  Undefined variable: power in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 17
+[13-Oct-2018 10:50:14 UTC] PHP Notice:  Undefined variable: power in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 16
+[13-Oct-2018 10:50:14 UTC] PHP Notice:  Undefined variable: effect in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 17
+[13-Oct-2018 10:50:14 UTC] PHP Notice:  Undefined variable: power in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 17
+[13-Oct-2018 10:50:50 UTC] PHP Fatal error:  Uncaught Error: Access to undeclared static property: Spell::$effect in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php:10
+Stack trace:
+#0 /home/nt67/Documents/php/perfect_php/sand/ooo/main.php(14): Spell->__construct('heal', 10)
+#1 {main}
+  thrown in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 10
+[13-Oct-2018 10:52:03 UTC] PHP Notice:  Undefined variable: power in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 16
+[13-Oct-2018 10:52:03 UTC] PHP Notice:  Undefined variable: effect in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 17
+[13-Oct-2018 10:52:03 UTC] PHP Notice:  Undefined variable: power in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 17
+[13-Oct-2018 10:52:03 UTC] PHP Notice:  Undefined variable: power in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 16
+[13-Oct-2018 10:52:03 UTC] PHP Notice:  Undefined variable: effect in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 17
+[13-Oct-2018 10:52:03 UTC] PHP Notice:  Undefined variable: power in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 17
+[13-Oct-2018 10:52:55 UTC] PHP Notice:  Undefined variable: power in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 16
+[13-Oct-2018 10:52:55 UTC] PHP Notice:  Undefined variable: power in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 16
+[13-Oct-2018 11:02:56 UTC] PHP Parse error:  syntax error, unexpected 'Caster' (T_STRING), expecting abstract (T_ABSTRACT) or final (T_FINAL) or class (T_CLASS) in /home/nt67/Documents/php/perfect_php/sand/ooo/Caster.php on line 3
+[13-Oct-2018 11:03:57 UTC] PHP Fatal error:  NoviceCaster cannot implement Caster - it is not an interface in /home/nt67/Documents/php/perfect_php/sand/ooo/NoviceCaster.php on line 3

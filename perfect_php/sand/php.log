@@ -35,3 +35,15 @@
 [11-Oct-2018 08:10:29 UTC] PHP Notice:  Undefined variable: yourNameIsGod in /home/nt67/Documents/php/perfect_php/sand/variables.php on line 35
 [11-Oct-2018 08:11:31 UTC] PHP Notice:  Undefined variable: yourNameIsGod in /home/nt67/Documents/php/perfect_php/sand/variables.php on line 35
 [11-Oct-2018 08:35:36 UTC] PHP Notice:  Undefined variable: yourNameIsGod in /home/nt67/Documents/php/perfect_php/sand/variables.php on line 35
+[11-Oct-2018 11:36:18 UTC] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING), expecting ',' or ';' in /home/nt67/Documents/php/perfect_php/sand/operator.php on line 27
+[11-Oct-2018 11:37:26 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/nt67/Documents/php/perfect_php/sand/operator.php on line 31
+[11-Oct-2018 11:37:32 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/nt67/Documents/php/perfect_php/sand/operator.php on line 31
+[11-Oct-2018 12:21:13 UTC] PHP Notice:  Undefined offset: 0 in /home/nt67/Documents/php/perfect_php/sand/array.php on line 14
+[11-Oct-2018 12:21:18 UTC] PHP Notice:  Undefined offset: 0 in /home/nt67/Documents/php/perfect_php/sand/array.php on line 14
+[11-Oct-2018 12:21:30 UTC] PHP Notice:  Undefined offset: 0 in /home/nt67/Documents/php/perfect_php/sand/array.php on line 14
+[11-Oct-2018 12:21:30 UTC] PHP Notice:  Undefined offset: 4 in /home/nt67/Documents/php/perfect_php/sand/array.php on line 18
+[11-Oct-2018 12:21:43 UTC] PHP Notice:  Undefined offset: 0 in /home/nt67/Documents/php/perfect_php/sand/array.php on line 15
+[11-Oct-2018 12:21:58 UTC] PHP Notice:  Undefined offset: 0 in /home/nt67/Documents/php/perfect_php/sand/array.php on line 16
+[11-Oct-2018 12:22:19 UTC] PHP Notice:  Undefined offset: 0 in /home/nt67/Documents/php/perfect_php/sand/array.php on line 16
+[11-Oct-2018 12:22:25 UTC] PHP Notice:  Undefined offset: 0 in /home/nt67/Documents/php/perfect_php/sand/array.php on line 16
+[11-Oct-2018 12:22:39 UTC] PHP Notice:  Undefined offset: 0 in /home/nt67/Documents/php/perfect_php/sand/array.php on line 16

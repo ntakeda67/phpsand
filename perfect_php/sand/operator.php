@@ -20,4 +20,18 @@ echo "-- bool-int strict equality", PHP_EOL;
 var_dump($a === 1);
 var_dump($a === 0);
 
+echo "--- compare", PHP_EOL;
+var_dump(1 == 1);
+var_dump(1 === 1);
+var_dump(1 < 1);
+var_dump(1 <= 1);
+echo "-- int-float", PHP_EOL;
+var_dump(1 == 1.0);
+var_dump(1 === 1.0);
+var_dump(1 < 1.0);
+var_dump(1 <= 1.0);
+echo "-- int-float strictly ", PHP_EOL;
+var_dump(1 === 1.0);
+//var_dump(1 <== 1.0); // 存在しない演算子
+
 ?>
