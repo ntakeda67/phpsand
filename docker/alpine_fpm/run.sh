@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo docker run -v `pwd`/src:/usr/src/myapp -it php5_env /bin/sh
+sudo docker run -d -p 8080:80 -v `pwd`/src:/var/www/html php5_env
