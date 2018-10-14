@@ -4,6 +4,25 @@
 #+OPTIONS: creator:nil LaTeX:t
 #+STYLE: <link rel="stylesheet" type="text/css" href="~/.emacs.d/template/org.css">
 
+* 開発環境
+** エディタ
+*** phpStorm
+- [ ] 商用利用?
+
+** 実行環境
+*** docker
+- offical images: https://store.docker.com/images/php
+- use php:5.6-fpm-alpine
+- docker version:
+
+#+BEGIN#
+docker -v
+Docker version 18.06.1-ce, build e68fc7a
+#+END#
+
+*** php with apache
+
+
 * 疑問
 ** 型/変数
 *** 文字列 二項演算子の "."

@@ -59,3 +59,4 @@ Stack trace:
 [13-Oct-2018 10:52:55 UTC] PHP Notice:  Undefined variable: power in /home/nt67/Documents/php/perfect_php/sand/ooo/Spell.php on line 16
 [13-Oct-2018 11:02:56 UTC] PHP Parse error:  syntax error, unexpected 'Caster' (T_STRING), expecting abstract (T_ABSTRACT) or final (T_FINAL) or class (T_CLASS) in /home/nt67/Documents/php/perfect_php/sand/ooo/Caster.php on line 3
 [13-Oct-2018 11:03:57 UTC] PHP Fatal error:  NoviceCaster cannot implement Caster - it is not an interface in /home/nt67/Documents/php/perfect_php/sand/ooo/NoviceCaster.php on line 3
+[13-Oct-2018 11:26:17 UTC] PHP Parse error:  syntax error, unexpected '$fileName' (T_VARIABLE), expecting ',' or ';' in /home/nt67/Documents/php/perfect_php/sand/ooo/main.php on line 8
