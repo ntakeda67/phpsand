@@ -5,6 +5,7 @@
 function __autoload($name)
 {
     $fileName = $name . '.php';
+    echo 'auto loading ... ' . $name . ' in ' . $fileName . PHP_EOL;
     require_once $fileName;
 }
 
