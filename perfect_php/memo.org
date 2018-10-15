@@ -6,11 +6,12 @@
 
 * 開発環境
 ** エディタ
-*** phpStorm
-- [ ] 商用利用?
-
+*** [ ] PhpStorm w/ xdebug
 ** 依存性管理
-*** composer
+*** [ ] composer
+** タスクランナー
+*** [ ] 候補
+フロントのビルド含めてテストやビルドデプロイの手順は誰が握らせるやら
 
 ** 実行環境
 *** docker(httpd)
@@ -24,30 +25,6 @@
 docker -v
 Docker version 18.06.1-ce, build e68fc7a
 #+END#
-
-*** php with apache
-
-
-* 疑問
-** 自動テスト
-*** phpUnit
-
-** 型/変数
-*** 文字列 二項演算子の "."
-連結?
-
-:BEGIN_SRC:
-echo "hoge" . PHP_EOL 
-echo "hoge" , PHP_EOL 
-:END:
-
-*** ダブル"とシングル'の違い
-シングルは展開なし
-
-** php.iniがらみ
-- SAPI
-- PHPRC
-
 
 * やること
 ** 通読
