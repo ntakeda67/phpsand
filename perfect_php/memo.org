@@ -13,10 +13,12 @@
 *** composer
 
 ** 実行環境
-*** docker
+*** docker(httpd)
 - offical images: https://store.docker.com/images/php
 - use php:5.6-apache
 - docker version:
+*** docker(embeded server)
+- use php:7.2-alpine
 
 #+BEGIN#
 docker -v

@@ -1,0 +1,9 @@
+version: '3'
+services:
+  web:
+    build: ./container
+    command: php -S 0.0.0.0:8000 -t /root/app
+    volumes:
+      - ./app:/root/app
+    ports:
+      - "8000:8000"
